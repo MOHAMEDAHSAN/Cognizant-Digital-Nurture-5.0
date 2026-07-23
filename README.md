@@ -111,43 +111,4 @@ pip install selenium
 | **Testing** | Selenium, pytest |
 | **Runtime** | Node.js 16+, Python 3.8+ |
 
-## 📖 Example: Running Database Optimization
-
-```bash
-cd CTS-SQL-DATABASE/hands_on_4
-python python/optimized_join.py
-```
-
-Demonstrates N+1 query problem optimization using a single JOIN query.
-
-## 🔄 Contributing
-
-1. Fork the repository
-2. Create feature branch: `git checkout -b feature/your-feature`
-3. Commit changes: `git commit -m "feat: description"`
-4. Push: `git push origin feature/your-feature`
-5. Create Pull Request
-
-## 📚 Resources
-
-- [React](https://react.dev) | [Django](https://www.djangoproject.com)
-- [FastAPI](https://fastapi.tiangolo.com) | [SQLAlchemy](https://www.sqlalchemy.org)
-- [MongoDB](https://docs.mongodb.com) | [Selenium](https://selenium.dev)
-
-## ✉️ Contact
-
-- GitHub: [@MOHAMEDAHSAN](https://github.com/MOHAMEDAHSAN)
-- Repository: [Cognizant-Digital-Nurture-5.0](https://github.com/MOHAMEDAHSAN/Cognizant-Digital-Nurture-5.0)
-
-## 📝 Notes
-
-- All exercises are for learning purposes
-- Configure database credentials in environment files
-- Update dependencies regularly for security
-- Check individual module READMEs for specific instructions
-
----
-
-**Last Updated:** July 2024 | **Version:** 1.0.0
-
 Happy Learning! 🚀
